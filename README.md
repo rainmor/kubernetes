@@ -25,21 +25,21 @@ Kubernetes 是:
 * **可扩展的**: 模块化, 可插拔, 可勾连, 可组合
 * **自我修复的**: 自动定位, 自动重启, 自动复制
 
-Kubernetes builds upon a [decade and a half of experience at Google running production workloads at scale](https://research.google.com/pubs/pub43438.html), combined with best-of-breed ideas and practices from the community.
+Kubernetes已在[Google](https://research.google.com/pubs/pub43438.html)这样规模的生产环境中运行了十年半，它是由Google的经验结合社区的最优秀的想法建立起来的。
 
 <hr>
 
-### Kubernetes is ready for Production!
+### Kubernetes已经准备部署到生产环境了！
 
 With the [1.0.1 release](https://github.com/kubernetes/kubernetes/releases/tag/v1.0.1) Kubernetes is ready to serve your production workloads.
 
-### Kubernetes can run anywhere!
+### Kubernetes可以运行在任何地方!
 
 You can run Kubernetes on your local workstation under Vagrant, cloud providers (e.g. GCE, AWS, Azure), and physical hardware. Essentially, anywhere Linux runs you can run Kubernetes. Checkout the [Getting Started Guides](http://kubernetes.io/docs/getting-started-guides/) for details.
 
-## Concepts
+## 各种概念
 
-Kubernetes works with the following concepts:
+Kubernetes在这些概念下运行:
 
 [**Cluster**](docs/admin/README.md)
 : A cluster is a set of physical or virtual machines and other infrastructure resources used by Kubernetes to run your applications. Kubernetes can run anywhere! See the [Getting Started Guides](docs/getting-started-guides/) for instructions for a variety of services.
@@ -61,7 +61,7 @@ They act as basic load balancers.
 [**Label**](docs/user-guide/labels.md)
 : Labels are used to organize and select groups of objects based on key:value pairs.
 
-## Documentation
+## 文档
 
 Kubernetes documentation is organized into several categories.
 
@@ -101,7 +101,7 @@ Kubernetes documentation is organized into several categories.
     - in the [wiki](https://github.com/kubernetes/kubernetes/wiki)
     - troubleshooting information in the [troubleshooting guide](docs/troubleshooting.md)
 
-## Community, discussion, contribution, and support
+## 社区，讨论，贡献，和支持
 
 See which companies are committed to driving quality in Kubernetes on our [community page](http://kubernetes.io/community/).
 
@@ -113,9 +113,9 @@ You should consider joining the [Cloud Native Computing Foundation](https://cncf
 
 Participation in the Kubernetes community is governed by the [Kubernetes Code of Conduct](code-of-conduct.md).
 
-### Are you ready to add to the discussion?
+### 你准备好加入讨论了吗?
 
-We have presence on:
+我们在这里:
 
  * [Twitter](https://twitter.com/kubernetesio)
  * [Google+](https://plus.google.com/u/0/b/116512812300813784482/116512812300813784482)
@@ -132,7 +132,7 @@ For Q&A, our threads are at:
 
 If you're interested in being a contributor and want to get involved in developing Kubernetes, start in the [Kubernetes Developer Guide](docs/devel/README.md) and also review the [contributor guidelines](CONTRIBUTING.md).
 
-### Support
+### 支持
 
 While there are many different channels that you can use to get ahold of us, you can help make sure that we are efficient in getting you the help that you need.
 
@@ -140,7 +140,7 @@ If you need support, start with the [troubleshooting guide](docs/troubleshooting
 
 That said, if you have questions, reach out to us one way or another.  We don't bite!
 
-### Community resources:
+### 社区资源:
 
 * **Awesome-kubernetes**:
 
