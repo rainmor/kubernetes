@@ -9,22 +9,21 @@
 [Coverage Status]: https://coveralls.io/r/kubernetes/kubernetes
 [Coverage Status Widget]: https://coveralls.io/repos/kubernetes/kubernetes/badge.svg
 
-### Are you ...
+### 你想做什么 ...
 
-  * Interested in learning more about using Kubernetes?  Please see our user-facing documentation on [kubernetes.io](http://kubernetes.io)
-  * Interested in hacking on the core Kubernetes code base?  Keep reading!
+  * 对学习如何使用kubernetes感兴趣？请到[kubernetes.io](http://kubernetes.io)参阅我们面向用户的文档.
+  * 对修改kubernetes的核心代码感兴趣？ 那么，请继续阅读！
 
 <hr>
 
-Kubernetes is an open source system for managing [containerized applications](https://github.com/kubernetes/kubernetes/wiki/Why-Kubernetes%3F#why-containers) across multiple hosts,
-providing basic mechanisms for deployment, maintenance, and scaling of applications.
+Kubernetes是一个用于管理[容器化应用](https://github.com/kubernetes/kubernetes/wiki/Why-Kubernetes%3F#why-containers)集群的开源系统，它提供了一些基本功能，如对应用的部署、维护、扩容及缩容等等。
 
-Kubernetes is:
+Kubernetes 是:
 
-* **lean**: lightweight, simple, accessible
-* **portable**: public, private, hybrid, multi cloud
-* **extensible**: modular, pluggable, hookable, composable
-* **self-healing**: auto-placement, auto-restart, auto-replication
+* **精简的**: 轻量, 简单, 易学习
+* **便携的**: 公共, 私有, 混合, 多重云平台
+* **可扩展的**: 模块化, 可插拔, 可勾连, 可组合
+* **自我修复的**: 自动定位, 自动重启, 自动复制
 
 Kubernetes builds upon a [decade and a half of experience at Google running production workloads at scale](https://research.google.com/pubs/pub43438.html), combined with best-of-breed ideas and practices from the community.
 
