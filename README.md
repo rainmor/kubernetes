@@ -63,37 +63,37 @@ They act as basic load balancers.
 
 ## 文档
 
-Kubernetes documentation is organized into several categories.
+Kubernetes被组织为以下几个类别.
 
-  - **Getting started guides**
+  - **入门指南**
     - for people who want to create a Kubernetes cluster
       - in [Creating a Kubernetes Cluster](docs/getting-started-guides/README.md)
     - for people who want to port Kubernetes to a new environment
       - in [Getting Started from Scratch](docs/getting-started-guides/scratch.md)
-  - **User documentation**
+  - **用户文档**
     - for people who want to run programs on an existing Kubernetes cluster
     - in the [Kubernetes User Guide: Managing Applications](docs/user-guide/README.md)
 	*Tip: You can also view help documentation out on [http://kubernetes.io/docs/](http://kubernetes.io/docs/).*
     - the [Kubectl Command Line Interface](docs/user-guide/kubectl/kubectl.md) is a detailed reference on
       the `kubectl` CLI
     - [User FAQ](https://github.com/kubernetes/kubernetes/wiki/User-FAQ)
-  - **Cluster administrator documentation**
+  - **集群管理文档**
     - for people who want to create a Kubernetes cluster and administer it
     - in the [Kubernetes Cluster Admin Guide](docs/admin/README.md)
-  - **Developer and API documentation**
+  - **开发和API文档**
     - for people who want to write programs that access the Kubernetes API, write plugins
       or extensions, or modify the core Kubernetes code
     - in the [Kubernetes Developer Guide](docs/devel/README.md)
     - see also [notes on the API](docs/api.md)
     - see also the [API object documentation](docs/api-reference/README.md), a
       detailed description of all fields found in the core API objects
-  - **Walkthroughs and examples**
+  - **演练和例子**
     - hands-on introduction and example config files
     - in the [user guide](docs/user-guide/README.md#quick-walkthrough)
     - in the [docs/examples directory](examples/)
-  - **Contributions from the Kubernetes community**
+  - **从Kubernetes社区贡献**
     - in the [docs/contrib directory](contrib/)
-  - **Design documentation and design proposals**
+  - **设计文档和设计建议**
     - for people who want to understand the design of Kubernetes, and feature proposals
     - design docs in the [Kubernetes Design Overview](docs/design/README.md) and the [docs/design directory](docs/design/)
     - proposals in the [docs/proposals directory](docs/proposals/)
